@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3337336e-2939-47d7-94b5-0613c34dd572" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Select/Select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Select/Select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/form/formFramework.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/Auxiliary/Auxiliary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/axios/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/axios/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/axios/axios-quiz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Loader/Loader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Loader/Loader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Auth/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/QuizList/QuizList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +74,7 @@
       <workItem from="1584123699644" duration="24739000" />
       <workItem from="1584645830547" duration="53000" />
       <workItem from="1584812766162" duration="2552000" />
-      <workItem from="1585071187785" duration="15127000" />
+      <workItem from="1585071187785" duration="22410000" />
     </task>
     <servers />
   </component>
